@@ -1,0 +1,62 @@
+2017-11-28 19:26:29,692 368  [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2017-11-28 19:26:29,708 384  [main] INFO  c.d.DiagramaticApplication - Starting DiagramaticApplication on DESKTOP-BE03PFB with PID 11148 (E:\kaushik\dev\github\diagramatic\target\classes started by kaushik in E:\kaushik\dev\github\diagramatic)
+2017-11-28 19:26:29,708 384  [main] INFO  c.d.DiagramaticApplication - No active profile set, falling back to default profiles: default
+2017-11-28 19:26:29,737 413  [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2fd66ad3: startup date [Tue Nov 28 19:26:29 EST 2017]; root of context hierarchy
+2017-11-28 19:26:30,762 1438 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:26:30,770 1446 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-11-28 19:26:30,808 1484 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.12.Final}
+2017-11-28 19:26:30,809 1485 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2017-11-28 19:26:30,810 1486 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2017-11-28 19:26:30,854 1530 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-11-28 19:26:30,920 1596 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-11-28 19:26:31,024 1700 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:26:31,196 1872 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-11-28 19:26:31,215 1891 [main] INFO  c.d.DiagramaticApplication - Started DiagramaticApplication in 1.647 seconds (JVM running for 2.363)
+2017-11-28 19:26:46,376 17052 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2017-11-28 19:26:46,377 17053 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2fd66ad3: startup date [Tue Nov 28 19:26:29 EST 2017]; root of context hierarchy
+2017-11-28 19:26:46,379 17055 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2017-11-28 19:26:46,379 17055 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:27:02,443 299  [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2017-11-28 19:27:02,466 322  [main] INFO  c.d.DiagramaticApplication - Starting DiagramaticApplication on DESKTOP-BE03PFB with PID 11956 (E:\kaushik\dev\github\diagramatic\target\classes started by kaushik in E:\kaushik\dev\github\diagramatic)
+2017-11-28 19:27:02,466 322  [main] INFO  c.d.DiagramaticApplication - No active profile set, falling back to default profiles: default
+2017-11-28 19:27:02,500 356  [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4fcd19b3: startup date [Tue Nov 28 19:27:02 EST 2017]; root of context hierarchy
+2017-11-28 19:27:03,388 1244 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:27:03,396 1252 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-11-28 19:27:03,432 1288 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.12.Final}
+2017-11-28 19:27:03,433 1289 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2017-11-28 19:27:03,434 1290 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2017-11-28 19:27:03,458 1314 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-11-28 19:27:03,515 1371 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-11-28 19:27:03,625 1481 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:27:03,784 1640 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-11-28 19:27:03,794 1650 [main] INFO  c.d.DiagramaticApplication - Started DiagramaticApplication in 1.463 seconds (JVM running for 2.132)
+2017-11-28 19:27:03,803 1659 [JavaFX Application Thread] INFO  c.d.DiagramaticApplication - application started
+2017-11-28 19:27:07,045 4901 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2017-11-28 19:27:07,045 4901 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4fcd19b3: startup date [Tue Nov 28 19:27:02 EST 2017]; root of context hierarchy
+2017-11-28 19:27:07,046 4902 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2017-11-28 19:27:07,046 4902 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:36:38,044 362  [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.6.Final
+2017-11-28 19:36:38,066 384  [main] INFO  c.d.DiagramaticApplication - Starting DiagramaticApplication on DESKTOP-BE03PFB with PID 14900 (E:\kaushik\dev\github\diagramatic\target\classes started by kaushik in E:\kaushik\dev\github\diagramatic)
+2017-11-28 19:36:38,066 384  [main] INFO  c.d.DiagramaticApplication - No active profile set, falling back to default profiles: default
+2017-11-28 19:36:38,119 437  [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5579bb86: startup date [Tue Nov 28 19:36:38 EST 2017]; root of context hierarchy
+2017-11-28 19:36:39,113 1431 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Building JPA container EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:36:39,122 1440 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-11-28 19:36:39,166 1484 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.0.12.Final}
+2017-11-28 19:36:39,167 1485 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2017-11-28 19:36:39,168 1486 [main] INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2017-11-28 19:36:39,195 1513 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-11-28 19:36:39,252 1570 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-11-28 19:36:39,361 1679 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2017-11-28 19:36:39,525 1843 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-11-28 19:36:39,537 1855 [main] INFO  c.d.DiagramaticApplication - Started DiagramaticApplication in 1.623 seconds (JVM running for 2.934)
+2017-11-28 19:36:39,547 1865 [JavaFX Application Thread] INFO  c.d.DiagramaticApplication - application started
+2017-11-28 19:37:15,708 38026 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2017-11-28 19:37:15,708 38026 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@5579bb86: startup date [Tue Nov 28 19:36:38 EST 2017]; root of context hierarchy
+2017-11-28 19:37:15,709 38027 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2017-11-28 19:37:15,710 38028 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
